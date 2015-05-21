@@ -1,0 +1,64 @@
+# view large-xhdpi-v4/res/layout-large-xhdpi-v4/guest_space_informations.xml #generated:6
+# view res/layout/ff2_settings_screen.xml #generated:49
+# view res/layout/gallery_screen.xml #generated:7
+# view res/layout/guest_space_informations.xml #generated:6
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/common_ui.xml #generated:8
+-keep class com.google.vrtoolkit.cardboard.CardboardView { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.parrot.freeflight.FreeFlightApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:117
+-keep class com.parrot.freeflight.activities.BrowserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:123
+-keep class com.parrot.freeflight.activities.CameraActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.parrot.freeflight.activities.ConnectActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.parrot.freeflight.activities.ControlDroneActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class com.parrot.freeflight.activities.DashboardActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.parrot.freeflight.activities.GalleryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.parrot.freeflight.activities.GuestSpaceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:89
+-keep class com.parrot.freeflight.activities.MediaActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.parrot.freeflight.activities.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class com.parrot.freeflight.activities.UpdateFirmwareActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.parrot.freeflight.service.DroneControlService { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.parrot.freeflight.transcodeservice.TranscodingService { <init>(...); }
+
+# view res/layout/ff2_settings_page_ardrone.xml #generated:49
+# view res/layout/ff2_settings_page_device.xml #generated:29
+# view res/layout/settings_page_ardrone.xml #generated:46
+# view res/layout/settings_page_device.xml #generated:22
+# view res/layout/settings_page_flight.xml #generated:14
+# view res/layout/settings_page_flight.xml #generated:29
+# view res/layout/settings_page_flight.xml #generated:44
+# view res/layout/settings_page_flight.xml #generated:59
+-keep class com.parrot.freeflight.ui.controls.ParrotSeekBar { <init>(...); }
+
+# view res/layout/ff2_settings_screen.xml #generated:32
+-keep class com.parrot.freeflight.ui.controls.ViewPagerIndicator { <init>(...); }
+
+# view AndroidManifest.xml #generated:134
+-keep class com.parrot.freeflight.updater.FirmwareUpdateService { <init>(...); }
+
